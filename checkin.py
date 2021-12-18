@@ -19,7 +19,7 @@ def start():
     
     dict = {}
     dict['luxi'] = "_ga=GA1.2.1501834713.1639549108; _gid=GA1.2.27669256.1639549108; _gat_gtag_UA_104464600_2=1; koa:sess=eyJ1c2VySWQiOjExNzg1NiwiX2V4cGlyZSI6MTY2NTQ2OTE0NjkxMywiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=OsBeyzuP1MpOWphD0dfgTdlOGmM"
-    # dict['key2'] = "second_cookie"
+    dict['luxi-sec'] = "_ga=GA1.2.1022313550.1639802633; _gid=GA1.2.111914836.1639802633; koa:sess=eyJ1c2VySWQiOjExODU3MiwiX2V4cGlyZSI6MTY2NTcyNDAwMDEyNSwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=0nwzcV2zXeetijDWEmlSQdSwizQ"
     # dict['key3'] = "third_cookie"
     
     for key in dict:
